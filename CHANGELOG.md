@@ -1,6 +1,6 @@
 # ChangeLog
 
-## feat/241217-vuepress-init
+## 0.0.1
 
 ### features
 
