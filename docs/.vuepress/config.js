@@ -7,7 +7,7 @@ export default defineUserConfig({
   lang: 'zh-CN',
 
   title: '0->1',
-  description: '倔强歌的伊甸园',
+  description: '',
 
   base: '/',
 
